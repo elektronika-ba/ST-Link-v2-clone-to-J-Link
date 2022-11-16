@@ -2,6 +2,9 @@
 
 Magic: QWK2tn+fM.EdjX6z
 
+# Upgrade to J-Link?
+https://mhhauto.com/Thread-Flash-ST-Link-Clone-to-J-link-STlink-Jlink
+
 Other resources:
 
 # Translated to Eng
@@ -11,7 +14,6 @@ https://sudonull.com/post/32259-Making-ST-Link-V21-from-Chinese-ST-Link-V2
 # Original article
 
 https://webcache.googleusercontent.com/search?q=cache:d1aophrRn6cJ:https://habr.com/ru/post/442290/&cd=2&hl=en&ct=clnk&gl=ba&client=firefox-b-d
-
 
 Делаем ST-Link V2.1 из китайского ST-Link V2
 Программирование микроконтроллеров *DIY или Сделай сам Лайфхаки для гиков Электроника для начинающих
