@@ -7,6 +7,8 @@ https://mhhauto.com/Thread-Flash-ST-Link-Clone-to-J-link-STlink-Jlink
 
 # Other resources:
 
+* https://embedblog.eu/?p=780
+
 * Translated to Eng: https://sudonull.com/post/32259-Making-ST-Link-V21-from-Chinese-ST-Link-V2
 
 * Original article: https://webcache.googleusercontent.com/search?q=cache:d1aophrRn6cJ:https://habr.com/ru/post/442290/&cd=2&hl=en&ct=clnk&gl=ba&client=firefox-b-d
